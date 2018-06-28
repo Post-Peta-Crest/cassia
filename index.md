@@ -13,7 +13,7 @@ Framework for Administration of Social Simulations on Massively Parallel Compute
 # Published Software
 
 * [OACIS](https://github.com/crest-cassia/oacis)
-  or [OACIS](http://www.aics.riken.jp/jp/k/aics-software/)
+  or [(mirror)](http://www.aics.riken.jp/jp/k/aics-software/)
 * [CARAVAN](https://github.com/crest-cassia/caravan)
 * [X10 libraries](http://x10-lang.org/)
 * [XASDI](http://x10-lang.org/xasdi/) 
@@ -22,3 +22,11 @@ Framework for Administration of Social Simulations on Massively Parallel Compute
 * [ADVENTURE Mates](http://adventure.sys.t.u-tokyo.ac.jp/jp/download/Mates.html)
 
 ---
+
+# Overview
+
+Project CASSIA (Comprehensive Architecture of Social Simulation for Inclusive Analysis) aims to develop a framework to administer to execute large-scale multiagent simulations exhaustively to analyze socially interactive systems. The framework will realize engineering environment to design and synthesize social systems like traffics, economy and politics.
+The framework consists of:
+* MASS Planning Module: a manager module conducts effective execution plans of simulations among massive possible conditions according to available computer resources.
+* MASS Parallel Middleware: an execution middleware provides functionality to realize distributed multi-agent simulation on many-core computers.
+
