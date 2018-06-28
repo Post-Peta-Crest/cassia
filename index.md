@@ -1,7 +1,9 @@
 ---
 title: Project CASSIA
-Framework for Administration of Social Simulations on Massively Parallel Computers
 ---
+Framework for Administration of Social Simulations on Massively Parallel Computers
+
+![CASSIA logo]({{ site.baseurl }}/img/cassia-draw-2014.0614a.png)
 
 # Team Description
 
