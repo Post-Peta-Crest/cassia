@@ -3,7 +3,6 @@ title: Project CASSIA
 ---
 Framework for Administration of Social Simulations on Massively Parallel Computers
 
-![CASSIA logo]({{ site.baseurl }}/img/cassia-draw-2014.0614a.png)
 
 # Team Description
 
@@ -29,8 +28,8 @@ Framework for Administration of Social Simulations on Massively Parallel Compute
 
 Project CASSIA (Comprehensive Architecture of Social Simulation for Inclusive Analysis) aims to develop a framework to administer to execute large-scale multiagent simulations exhaustively to analyze socially interactive systems. The framework will realize engineering environment to design and synthesize social systems like traffics, economy and politics.
 The framework consists of:
-* MASS Planning Module: a manager module conducts effective execution plans of simulations among massive possible conditions according to available computer resources.
-* MASS Parallel Middleware: an execution middleware provides functionality to realize distributed multi-agent simulation on many-core computers.
+* __MASS Planning Module__: a manager module conducts effective execution plans of simulations among massive possible conditions according to available computer resources.
+* __MASS Parallel Middleware__: an execution middleware provides functionality to realize distributed multi-agent simulation on many-core computers.
 
 ![CASSIA framework]({{ site.baseurl }}/img/cassia-framework.png)
 
@@ -83,4 +82,6 @@ We apply our framework to evaluate evacuation plans, which have over 300 control
 
 
 
+---
 
+![CASSIA logo]({{ site.baseurl }}/img/cassia-draw-2014.0614a.png)
