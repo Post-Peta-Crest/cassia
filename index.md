@@ -15,12 +15,19 @@ Framework for Administration of Social Simulations on Massively Parallel Compute
 
 * [OACIS](https://github.com/crest-cassia/oacis)
   / [(mirror@RIKEN)](http://www.r-ccs.riken.jp/jp/k/software/)
+  : a job management software for large-scale simulations.
 * [CARAVAN](https://github.com/crest-cassia/caravan)
+  : a job management software for very-large-scale simulations via MPI.
+* [XASDI](http://x10-lang.org/xasdi/)
+  : a large-scale agent-based social simulation framework.
 * [X10 libraries](http://x10-lang.org/)
-* [XASDI](http://x10-lang.org/xasdi/) 
+  : collections of management library for agent-base simulation.
 * [Plham](https://hub.docker.com/r/oacis/oacis_jupyter_plham/)
+  : a platform for large-scale and high-frequency artificial market simulation.
 * [CrowdWalk](https://github.com/crest-cassia/CrowdWalk)
+  : a pedestrian simulator.
 * [ADVENTURE Mates](http://adventure.sys.t.u-tokyo.ac.jp/jp/download/Mates.html)
+  : a traffic simulator.
 
 ---
 
